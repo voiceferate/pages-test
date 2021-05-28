@@ -10,7 +10,7 @@
   <link rel="shortcut icon" type="image/png" href="imgs/favicon.png" />
   <meta name="format-detection" content="telephone=no">
 
-  <title>Set Proper Title</title>
+  <title>Set Proper Title 2</title>
 
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="prerender" href="https://activehealthco.com/Sash/preloading-links-test/usual-loading/JointPro_LP_2021/index.php">
